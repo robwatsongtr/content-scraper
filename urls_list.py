@@ -54,6 +54,7 @@ urls_list = [
     'https://techcrunch.com/2023/06/09/sample-seed-pitch-deck-culturepulse/',
     'https://techcrunch.com/2023/06/16/sample-seed-pitch-deck-netmaker/?tpcc=tcplustwitter',
     'https://techcrunch.com/2023/06/30/sample-series-c-pitch-deck-super-com/',
+    
     'https://techcrunch.com/2023/07/07/sample-seed-pitch-deck-nokod-security/%5C',
     'https://techcrunch.com/2023/07/14/sample-series-a-extension-pitch-deck-goodbuy-gear/',
     'https://techcrunch.com/2023/07/21/sample-seed-pitch-deck-cleanhub/',
