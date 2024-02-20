@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import fitz
+import re
 
 class Scraper:
     def __init__(self, url):
@@ -29,5 +30,16 @@ class Scraper:
         data = self.extract_content(html)
 
         return data 
+    
+    @staticmethod
+    def extract_urls_from_text_file(file_path):
+        urls = []
+
+        with open(file_path, 'r') as file:
+            text = file.read()
+            url_pattern = r'https?://\S+'
+            urls = re.findall(url_pattern, text)
+
+        return urls
     
     

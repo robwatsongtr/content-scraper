@@ -1,0 +1,83 @@
+1	Minut	$15m		Series B	Teardown of Minut's $15m Series B deck	https://techcrunch.com/2022/04/28/example-series-b-pitch-deck-minut/
+2	Momentum	$5m		Seed	Teardown of Momentum's $5m Seed deck	https://techcrunch.com/2022/05/05/sample-seed-pitch-deck-momentum/
+3	Dutch	$20m		Series A	Teardown of Dutch's $20m Series A deck	https://techcrunch.com/2022/05/12/sample-series-a-pitch-deck-dutch/
+4	BoxedUp, Inc.	$2.3m		Seed	Teardown of BoxedUp, Inc.'s $2.3m Seed deck	https://techcrunch.com/2022/05/19/sample-seed-round-pitch-deck-boxedup/
+5	Lumigo	$29m		Series A	Teardown of Lumigo's $29m Series A deck	https://techcrunch.com/2022/05/26/sample-series-a-pitch-deck-lumigo/
+6	Encore	$3m		Seed	Teardown of Encore's $3m Seed deck	https://techcrunch.com/2022/06/02/sample-seed-pitch-deck-encore/
+7	Lunchbox	$50m		Series B	Teardown of Lunchbox's $50m Series B deck	https://techcrunch.com/2022/06/09/sample-series-b-pitch-deck-lunchbox/
+8	Ergeon	$40m		Series B	Teardown of Ergeon's $40m Series B deck	https://techcrunch.com/2022/06/16/sample-series-b-pitch-deck-ergeon/
+9	WayRay	$80m		Series E	Teardown of WayRay's $80m Series E deck	https://techcrunch.com/2022/06/23/sample-growth-pitch-deck-wayray/
+10	Wilco	$7m		Seed	Teardown of Wilco's $7m Seed deck	https://techcrunch.com/2022/06/30/sample-seed-pitch-deck-wilco/
+11	Enduring Planet	$2m		Seed	Teardown of Enduring Planet's $2m Seed deck	https://techcrunch.com/2022/07/07/sample-seed-pitch-deck-enduring-planet/
+12	Forethought	$65m		Series C	Teardown of Forethought's $65m Series C deck	https://techcrunch.com/2022/07/14/sample-series-c-pitch-deck-forethought/
+13	Arkive	$9.7m		Seed	Teardown of Arkive's $9.7m Seed deck	https://techcrunch.com/2022/07/21/sample-seed-pitch-deck-arkive/
+14	Alto Pharmacy	$200m		Series E	Teardown of Alto Pharmacy's $200m Series E deck	https://techcrunch.com/2022/07/28/sample-series-e-pitch-deck-alto-pharmacy/
+15	Glambook	$2.5m		Seed	Teardown of Glambook's $2.5m Seed deck	https://techcrunch.com/2022/08/04/sample-seed-pitch-deck-glambook/
+16	Five Flute	$1.2m		Pre-seed	Teardown of Five Flute's $1.2m Pre-seed deck	https://techcrunch.com/2022/08/11/sample-pre-seed-pitch-deck-five-flute/
+17	Mi Terro	$1.5m		Seed	Teardown of Mi Terro's $1.5m Seed deck	https://techcrunch.com/2022/08/18/sample-seed-pitch-deck-mi-terro/
+18	SIMBA Chain	$25m		Series A	Teardown of SIMBA Chain's $25m Series A deck	https://techcrunch.com/2022/08/25/sample-series-a-pitch-deck-simba-chain/
+19	Front	$65m		Series D	Teardown of Front's $65m Series D deck	https://techcrunch.com/2022/09/01/sample-series-d-pitch-deck-front/
+20	Helu.io	$9.8m		Series A	Teardown of Helu.io's $9.8m Series A deck	https://techcrunch.com/2022/09/15/sample-series-a-pitch-deck-helu-io/
+21	Party Round	$7m		Angel	Teardown of Party Round's $7m Angel deck	https://techcrunch.com/2022/09/22/sample-angel-pitch-deck-party-round/
+22	Rokoko	$3m		Strategic Extension	Teardown of Rokoko's $3m Strategic Extension deck	https://techcrunch.com/2022/09/29/sample-strategic-extension-pitch-deck-rokoko/
+23	Vori	$10m		Series A	Teardown of Vori's $10m Series A deck	https://techcrunch.com/2022/10/06/sample-series-a-pitch-deck-vori/
+24	Supliful	$1m		Seed	Teardown of Supliful's $1m Seed deck	https://techcrunch.com/2022/10/13/sample-seed-pitch-deck-supliful/
+25	Palau Project	$125k		Pre-seed	Teardown of Palau Project 's $125k Pre-seed deck	https://techcrunch.com/2022/10/25/sample-pre-seed-pitch-deck-palau-project/
+26	Syneroid Technologies	$ 5C0o0rmp.		Seed	Teardown of Syneroid Technologies Corp.'s $500m Se	https://techcrunch.com/2022/11/10/sample-seed-pitch-deck-syneroid-technologies-corp/
+27	Sateliot	$11.4m		Series A	Teardown of Sateliot's $11.4m Series A deck	https://techcrunch.com/2022/11/17/sample-series-a-pitch-deck-sateliot/
+28	Juro	$23m		Series B	Teardown of Juro 's $23m Series B deck	https://techcrunch.com/2022/11/25/sample-series-b-pitch-deck-juro/
+29	Hour One	$20m		Series A	Teardown of Hour One's $20m Series A deck	https://techcrunch.com/2022/12/01/pitch-deck-teardown-hour-ones-20m-series-a-deck/
+30	Rootine	$10m		Series A	Teardown of Rootine's $10m Series A deck	https://techcrunch.com/2022/12/08/sample-series-a-pitch-deck-rootine/
+31	MedCrypt	$25m		Series B	Teardown of MedCrypt's $25m Series B deck	https://techcrunch.com/2022/12/15/sample-series-b-pitch-deck-medcrypt/
+32	Card Blanch	$460k		Angel	Teardown of Card Blanch's $460k Angel deck	https://techcrunch.com/2022/12/22/sample-angel-pitch-deck-card-blanch/
+33	Scrintal	$1m		Seed	Teardown of Scrintal's $1m Seed deck	https://techcrunch.com/2023/01/19/sample-seed-pitch-deck-scrintal/
+34	Orange	$2.5m		Seed	Teardown of Orange's $2.5m Seed deck	https://techcrunch.com/2023/01/26/sample-seed-pitch-deck-orange
+35	Laoshi	$570k		Angel	Teardown of Laoshi's $570k Angel deck	https://techcrunch.com/2023/02/02/sample-angel-pitch-deck-laoshi/
+36	Spinach.io	$3.5m		Seed	Teardown of Spinach.io's $3.5m Seed deck	https://techcrunch.com/2023/02/09/sample-seed-pitch-deck-spinach-io/
+37	Incymo AI	$850k		Seed	Teardown of Incymo AI's $850k Seed deck	https://techcrunch.com/2023/02/16/sample-seed-pitch-deck-incymo-ai/
+38	Uber	$200k		Pre-seed	Teardown of Uber's $200k Pre-seed deck	https://techcrunch.com/2023/02/23/sample-pre-seed-pitch-deck-uber-2008/
+39	Gable	$16m		Series A	Teardown of Gable's $16m Series A deck	https://techcrunch.com/2023/03/02/sample-series-a-pitch-deck-gable/
+40	MiO Marketplace	$550k		Angel	Teardown of MiO Marketplace's $550k Angel deck	https://techcrunch.com/2023/03/09/sample-angel-pitch-deck-mio-marketplace/
+41	StudentFinance	$41m		Series A	Teardown of StudentFinance's $41m Series A deck	https://techcrunch.com/2023/03/16/sample-series-a-pitch-deck-studentfinance/
+42	Prelaunch.com	$1.5m		Seed	Teardown of Prelaunch.com's $1.5m Seed deck	https://techcrunch.com/2023/03/23/sample-seed-pitch-deck-prelaunch-dot-com/
+43	Northspyre	$25m		Series B	Teardown of Northspyre's $25m Series B deck	https://techcrunch.com/2023/03/30/sample-series-b-pitch-deck-northspyre/
+44	Smalls	$19m		Series B	Teardown of Smalls's $19m Series B deck	https://techcrunch.com/2023/04/06/sample-series-b-pitch-deck-smalls/
+45	Diamond Standard	$30m		Series A	Teardown of Diamond Standard's $30m Series A deck	https://techcrunch.com/2023/04/13/sample-series-a-pitch-deck-diamond-standard/
+46	Honeycomb	$50m		Series D	Teardown of Honeycomb 's $50m Series D deck	https://techcrunch.com/2023/04/20/sample-series-d-pitch-deck-honeycomb/
+47	Careerist	$8m	Series A		Teardown of Careerist's $8m Series A deck	https://techcrunch.com/2023/04/27/sample-series-a-pitch-deck-careerist/
+48	The Perfect Pitch Deck	$1m	Seed		Teardown of The Perfect Pitch Deck's $1m Seed deck	https://techcrunch.com/2023/05/04/the-perfect-pitch-deck/
+49	Fibery	$5.2m	Series A		Teardown of Fibery's $5.2m Series A deck	https://techcrunch.com/2023/05/11/sample-series-a-pitch-deck-fibery/
+50	Ageras	$36m	Private Equity		Teardown of Ageras's $36m Private Equity deck	https://techcrunch.com/2023/05/18/sample-private-equity-pitch-deck-ageras/
+51	Faye	$10m	Series A		Teardown of Faye's $10m Series A deck	https://techcrunch.com/2023/05/26/sample-series-a-pitch-deck-faye/
+52	Oii.ai	$1.85m	Seed		Teardown of Oii.ai's $1.85m Seed deck	https://techcrunch.com/2023/06/02/sample-seed-pitch-deck-oii-ai/
+53	CulturePulse	$1m	Seed		Teardown of CulturePulse's $1m Seed deck	https://techcrunch.com/2023/06/09/sample-seed-pitch-deck-culturepulse/
+54	Netmaker	$2.3m	Seed		Teardown of Netmaker's $2.3m Seed deck	https://techcrunch.com/2023/06/16/sample-seed-pitch-deck-netmaker/?tpcc=tcplustwitter
+55	Super.com	$60m	Series C		Teardown of Super.com's $60m Series C deck	https://techcrunch.com/2023/06/30/sample-series-c-pitch-deck-super-com/
+56	Nokod Security	$8m	Seed		Teardown of Nokod Security's $8m Seed deck	https://techcrunch.com/2023/07/07/sample-seed-pitch-deck-nokod-security/%5C
+57	GoodBuy Gear	$5m	Series A Extension		Teardown of GoodBuy Gear's $5m Series A Extension deck	https://techcrunch.com/2023/07/14/sample-series-a-extension-pitch-deck-goodbuy-gear/
+58	CleanHub	$7m	Seed		Teardown of CleanHub's $7m Seed deck	https://techcrunch.com/2023/07/21/sample-seed-pitch-deck-cleanhub/
+59	Unito	$20m	Series B		Teardown of Unito's $20m Series B deck	https://techcrunch.com/2023/07/28/sample-series-b-pitch-deck-unito/
+60	SquadTrip	$1.5m	Pre-seed		Teardown of SquadTrip's $1.5m Pre-seed deck	https://techcrunch.com/2023/08/04/sample-pre-seed-pitch-deck-squadtrip/
+61	ANYbotics AG	$50m	Series B		Teardown of ANYbotics AG's $50m Series B deck	https://techcrunch.com/2023/08/11/sample-series-b-pitch-deck-anybotics-ag/
+62	DeckMatch	$1m	Seed		Teardown of DeckMatch's $1m Seed deck	https://techcrunch.com/2023/08/18/sample-seed-pitch-deck-deckmatch/
+63	BusRight	$7m	Series A		Teardown of BusRight's $7m Series A deck	https://techcrunch.com/2023/08/25/sample-series-a-pitch-deck-busright/
+64	Tanbii	$1.5m	Pre-seed		Teardown of Tanbii's $1.5m Pre-seed deck	https://techcrunch.com/2023/09/01/sample-pre-seed-pitch-deck-tanbii/
+65	Tomorrow University of	$ A10pmplied ScieSnecreiess A			Teardown of Tomorrow University of Applied Sciences's $10m Series A deck	https://techcrunch.com/2023/09/08/sample-series-a-pitch-deck-tomorrow-university/
+66	Learn.xyz	$3m	Seed		Teardown of Learn.xyz's $3m Seed deck	https://techcrunch.com/2023/09/15/sample-seed-pitch-deck-learn-xyz/
+67	Transcend	$20m	Series B		Teardown of Transcend's $20m Series B deck	https://techcrunch.com/2023/09/22/sample-series-b-pitch-deck-transcend/
+68	point.me	$10m	Series A		Teardown of point.me's $10m Series A deck	https://techcrunch.com/2023/09/29/sample-series-a-pitch-deck-point-me/
+69	Lupiya	$8.3m	Series A		Teardown of Lupiya's $8.3m Series A deck	https://techcrunch.com/2023/10/06/sample-series-a-pitch-deck-lupiya/
+70	SplitBrick	$200k	Angel		Teardown of SplitBrick's $200k Angel deck	https://techcrunch.com/2023/10/20/sample-angel-pitch-deck-splitbrick/
+71	Aether	$49m	Series A		Teardown of Aether's $49m Series A deck	https://techcrunch.com/2023/10/27/sample-series-a-pitch-deck-aether/
+72	CancerVAX	$10m	Crowdfunding		Teardown of CancerVAX's $10m Crowdfunding deck	https://techcrunch.com/2023/11/03/cancervax-crowdfunding-campaign-pitch-teardown/
+73	Phospholutions	$10.15m	Series A extension		Teardown of Phospholutions's $10.15m Series A extension deck	https://techcrunch.com/2023/11/10/sample-series-a-extension-pitch-deck-phospholutions/
+74	Fifth Dimension AI	$2.8m	Seed		Teardown of Fifth Dimension AI's $2.8m Seed deck	https://techcrunch.com/2023/11/17/sample-seed-pitch-deck-fifth-dimension-ai/
+75	Scalestack	$1m	Seed		Teardown of Scalestack's $1m Seed deck	https://techcrunch.com/2023/12/01/sample-seed-pitch-deck-scalestack/
+76	Metafuels	$8m	Seed		Teardown of Metafuels's $8m Seed deck	https://techcrunch.com/2023/12/15/sample-seed-pitch-deck-metafuels/
+77	HomeCooks	$3.2m	Seed		Teardown of HomeCooks's $3.2m Seed deck	https://techcrunch.com/2023/12/22/sample-seed-pitch-deck-homecooks/
+78	Pepper Bio	$6.5m	Seed		Teardown of Pepper Bio's $6.5m Seed deck	https://techcrunch.com/2024/01/05/sample-seed-pitch-deck-pepper-bio/
+79	Qortex	$10m	Seed		Teardown of Qortex's $10m Seed deck	https://techcrunch.com/2024/01/12/sample-seed-pitch-deck-qortex/
+80	Ryplzz	$3m	Seed		Teardown of Ryplzz's $3m Seed deck	https://techcrunch.com/2024/01/19/sample-seed-pitch-deck-rypplzz/
+81	Doola	$1m	Series A extension		Teardown of Doola's $1m Series A extension deck	https://techcrunch.com/2024/01/26/sample-series-a-extension-pitch-deck-doola/
+82	PhageLab	$11m	Series A		Teardown of PhageLab's $11m Series A deck	https://techcrunch.com/2024/02/02/sample-series-a-pitch-deck-phagelab/
+83	Xyte	$30m	Series A		Teardown of Xyte's $30m Series A deck	https://techcrunch.com/2024/02/09/sample-series-a-pitch-deck-xyte/
