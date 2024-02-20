@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
     # print(data)
 
-    with open("dutch-pitch-deck.html", "w") as file:
+    with open("output.html", "w") as file:
         file.write(data)
 
     print("Data has been saved to output.html file.")
