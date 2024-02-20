@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import fitz
 import re
 
 class Scraper:
@@ -17,13 +16,16 @@ class Scraper:
         return html
     
     def extract_content(self, html):
-        soup = BeautifulSoup(html, 'html.parser')
-        article_content = soup.find('div', class_ = 'article-content')
+        try:
+            soup = BeautifulSoup(html, 'html.parser')
+            article_content = soup.find('div', class_ = 'article-content')
+            # create BeautifulSoup object with only the article content 
+            extracted_content = BeautifulSoup(str(article_content), 'html.parser')
 
-        # create BeautifulSoup object with only the article content 
-        extracted_content = BeautifulSoup(str(article_content), 'html.parser')
-
-        return extracted_content.prettify()
+            return extracted_content.prettify()
+        
+        except Exception as e:
+            print(f"An error occurred extracting content: {str(e)}")
     
     def scrape_page(self):
         html = self.fetch_html()
