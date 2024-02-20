@@ -1,3 +1,2 @@
-# Pitch-deck-teardown-scraper
+# Content scraper 
 
-Scrapes TechCrunch Pitch Deck Teardowns 
