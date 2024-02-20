@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import fitz
 
 class Scraper:
     def __init__(self, url):
@@ -28,3 +29,5 @@ class Scraper:
         data = self.extract_content(html)
 
         return data 
+    
+    

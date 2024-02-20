@@ -6,4 +6,11 @@ if __name__ == "__main__":
     scraper = Scraper(url)
     data = scraper.scrape_page()
 
-    print(data)
+    # print(data)
+
+    with open("dutch-pitch-deck.html", "w") as file:
+        file.write(data)
+
+    print("Data has been saved to output.html file.")
+
+    
