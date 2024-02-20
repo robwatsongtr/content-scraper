@@ -10,3 +10,4 @@ if __name__ == "__main__":
             file.write("'" + str(item) + "'" + "," + '\n')
 
     print("done")
+    

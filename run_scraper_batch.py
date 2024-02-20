@@ -21,6 +21,4 @@ if __name__ == "__main__":
             file.write(data)
 
         print(f"{file_name} has been saved." )
-
-
     

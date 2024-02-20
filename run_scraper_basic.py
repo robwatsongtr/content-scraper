@@ -12,5 +12,4 @@ if __name__ == "__main__":
         file.write(data)
 
     print("Data has been saved to output.html file.")
-
-    
+        

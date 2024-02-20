@@ -44,4 +44,3 @@ class Scraper:
 
         return urls
     
-    
